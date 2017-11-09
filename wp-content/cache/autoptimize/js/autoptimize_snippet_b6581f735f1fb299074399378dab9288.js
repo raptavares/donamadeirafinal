@@ -1,0 +1,2 @@
+(function($){$(document).ready(function(){if(typeof($.fn.lazyload)=="function"){$(".image-scroll-fade").lazyload({effect:"fadeIn"});}
+if(typeof($.fancybox)=="function"){$(".ig-image-fancy").fancybox({"autoScale":true,"transitionIn":"elastic","transitionOut":"elastic","type":"iframe"});}});})(jQuery);

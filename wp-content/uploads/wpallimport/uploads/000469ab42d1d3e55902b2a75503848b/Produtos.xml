@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.6.6
+- https://www.phpmyadmin.net
+-
+- Host: robb0333.publiccloud.com.br:3306
+- Generation Time: 26-Abr-2017 às 21:30
+- Versão do servidor: 5.6.35-80.0-log
+- PHP Version: 5.6.14
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="vebidesenvolvimento_donamadeira" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="Produtos">
+                CREATE TABLE `Produtos` (
+                  `ProdutoID` int(11) NOT NULL AUTO_INCREMENT,
+                  `SubCategoriaID` int(11) NOT NULL,
+                  `Titulo` varchar(250) CHARACTER SET utf8 NOT NULL,
+                  `Informacoes` text,
+                  `DadosTecnicos` text,
+                  `HtmlDescription` varchar(250) CHARACTER SET utf8 NOT NULL,
+                  `HtmlKeywords` text NOT NULL,
+                  `Codigo` varchar(250) CHARACTER SET utf8 NOT NULL,
+                  `DataCadastro` datetime NOT NULL,
+                  `DataUltAlteracao` datetime NOT NULL,
+                  `Status` tinyint(4) NOT NULL,
+                  `Link` text NOT NULL,
+                  `ShortLink` varchar(200) CHARACTER SET utf8 DEFAULT NULL,
+                  `ValorUnitario` decimal(10,2) NOT NULL,
+                  `FotoPrincipal` varchar(250) CHARACTER SET utf8 DEFAULT NULL,
+                  PRIMARY KEY (`ProdutoID`),
+                  KEY `fp_subcategorias_produtos` (`SubCategoriaID`),
+                  CONSTRAINT `FK_Produto_SubCategoria` FOREIGN KEY (`SubCategoriaID`) REFERENCES `SubCategorias` (`SubCategoriaID`) ON DELETE CASCADE ON UPDATE CASCADE
+                ) ENGINE=InnoDB AUTO_INCREMENT=431 DEFAULT CHARSET=latin1;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'vebidesenvolvimento_donamadeira'
+    -->
+    <database name="vebidesenvolvimento_donamadeira">
+        <!-- Tabela Produtos -->
+        <table name="Produtos">
+            <column name="ProdutoID">1</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Caipira</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico caipira em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprimento: 2,00 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</column>
+            <column name="HtmlDescription">Banco rústico caipira em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BC - 054</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:10:19</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bc-54-banco-caipira</column>
+            <column name="ShortLink">http://bit.ly/2aN4mIf</column>
+            <column name="ValorUnitario">533.00</column>
+            <column name="FotoPrincipal">destaque_634226831446607727.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">2</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Caipira</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico caipira em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 2,00 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco rústico caipira em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BC - 053</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:11:04</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bc-53-banco-caipira</column>
+            <column name="ShortLink">http://bit.ly/2dZlfhI</column>
+            <column name="ValorUnitario">533.00</column>
+            <column name="FotoPrincipal">destaque_634226831445797680.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">3</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Cubo</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico cubo em madeira de demoli&amp;ccedil;&amp;atilde;o&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 0,40 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco rústico cubo em madeira de demolição</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BCB - 051</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 12:03:33</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bcb-51-banco-cubo</column>
+            <column name="ShortLink">http://bit.ly/2dZmCgc</column>
+            <column name="ValorUnitario">238.00</column>
+            <column name="FotoPrincipal">destaque_634226831448577839.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">4</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco c/ Furo</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico em madeira de demoli&amp;ccedil;&amp;atilde;o com furo lateral.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 0,40 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco rústico em madeira de demolição com furo lateral.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BCB - 050</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:55:13</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bcb-50-banco-com-furo</column>
+            <column name="ShortLink">http://bit.ly/2dZmk9m</column>
+            <column name="ValorUnitario">238.00</column>
+            <column name="FotoPrincipal">destaque_634226831447297766.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">5</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Caipira</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico caipira em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 1,20 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco rústico caipira em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BC - 052</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:13:03</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bc-52-banco-caipira</column>
+            <column name="ShortLink">http://bit.ly/2dZlycv</column>
+            <column name="ValorUnitario">317.00</column>
+            <column name="FotoPrincipal">destaque_634226831445217647.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">6</column>
+            <column name="SubCategoriaID">13</column>
+            <column name="Titulo">Banco Baú</column>
+            <column name="Informacoes">&lt;p&gt;Banco ba&amp;uacute; em madeira de demoli&amp;ccedil;&amp;atilde;o com 2 gavetas com puxadores em a&amp;ccedil;o envelhecido&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 1,20 / Profundidade: 0,45 / Altura: 0,50&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco baú em madeira de demolição com 2 gavetas com puxadores em aço envelhecido</column>
+            <column name="HtmlKeywords">banco baú, banco baú rústico, banco rústico baú, baú, banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BBU - 055</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 12:55:10</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos-bau/bbu-55-banco-bau</column>
+            <column name="ShortLink">http://bit.ly/2dZlKZd</column>
+            <column name="ValorUnitario">1056.00</column>
+            <column name="FotoPrincipal">destaque_634226831441937459.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">7</column>
+            <column name="SubCategoriaID">13</column>
+            <column name="Titulo">Banco Baú</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico ba&amp;uacute; em madeira de demoli&amp;ccedil;&amp;atilde;o&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;ul&gt;
+&lt;li&gt;Comprimento: 1,20 / Profundidade: 0,45 / Altura: 0,50&lt;/li&gt;
+&lt;/ul&gt;</column>
+            <column name="HtmlDescription">Banco rústico baú em madeira de demolição</column>
+            <column name="HtmlKeywords">banco baú, banco baú rústico, banco rústico baú, baú, banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BBU - 054</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 12:56:01</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos-bau/bbu-54-banco-bau</column>
+            <column name="ShortLink">http://bit.ly/2dZlSrC</column>
+            <column name="ValorUnitario">898.00</column>
+            <column name="FotoPrincipal">destaque_634226831441177416.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">8</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Caipira Mineiro</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico caipira mineiro em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprimento: 1,60 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</column>
+            <column name="HtmlDescription">Banco rústico caipira mineiro em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BC - 051</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:17:05</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bc-51-banco-caipira-mineiro</column>
+            <column name="ShortLink">http://bit.ly/2dZkUvg</column>
+            <column name="ValorUnitario">422.00</column>
+            <column name="FotoPrincipal">destaque_634226831444497606.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">9</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco Caipira Mineiro</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico caipira mineiro em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprimento: 2,00 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</column>
+            <column name="HtmlDescription">Banco rústico caipira mineiro em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BC - 050</column>
+            <column name="DataCadastro">2010-10-14 19:59:04</column>
+            <column name="DataUltAlteracao">2016-08-03 11:49:03</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bc-50-banco-caipira-mineiro</column>
+            <column name="ShortLink">http://bit.ly/2dZlBow</column>
+            <column name="ValorUnitario">533.00</column>
+            <column name="FotoPrincipal">destaque_634226831443857569.jpg</column>
+        </table>
+        <table name="Produtos">
+            <column name="ProdutoID">10</column>
+            <column name="SubCategoriaID">14</column>
+            <column name="Titulo">Banco</column>
+            <column name="Informacoes">&lt;p&gt;Banco r&amp;uacute;stico em madeira de demoli&amp;ccedil;&amp;atilde;o.&lt;/p&gt;</column>
+            <column name="DadosTecnicos">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprimento: 0,60 / Profundidade: 0,40 / Altura: 0,45&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</column>
+            <column name="HtmlDescription">Banco rústico em madeira de demolição.</column>
+            <column name="HtmlKeywords">banco, banco rústico, banco em madeira de demolição, banco rustico em madeira de demolição, banco rústico para jardim, banco para jardim, banco de jardim, madeira de demolição, decoração rústica, decoração, decor, dona madeira, donamadeira, wood, madeira, móvel rústico, móveis rústicos, móvel rústico em madeira de demolição, móveis rústicos em madeira de demolição</column>
+            <column name="Codigo">BCD - 052</column>
+            <column name="DataCadastro">2010-10-14 19:59:05</column>
+            <column name="DataUltAlteracao">2016-08-03 10:36:12</column>
+            <column name="Status">1</column>
+            <column name="Link">/Produtos/moveis-rusticos/bancos/bcd-52-banco</column>
+            <column name="ShortLink">http://bit.ly/2dZmcXp</column>
+            <column name="ValorUnitario">166.00</column>
+            <column name="FotoPrincipal">destaque_634226831454038152.jpg</column>
+        </table>
+    </database>
+</pma_xml_export>

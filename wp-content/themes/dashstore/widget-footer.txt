@@ -1,0 +1,6 @@
+<div class="footer-info-block row">
+<div class="feature col-md-3 col-sm-6 col-xs-12"><span class="link"><a>Como comprar?</a></span> <span class="text">Lorem ipsum dolor sit amet</span></div>
+<div class="feature col-md-3 col-sm-6 col-xs-12"><span class="link"><a>Prazo de entrega</a></span> <span class="text">Lorem ipsum dolor sit amet</span></div>
+<div class="feature col-md-3 col-sm-6 col-xs-12"><span class="link"><a>Delivery info</a></span> <span class="text">Lorem ipsum dolor sit amet</span></div>
+<div class="feature col-md-3 col-sm-6 col-xs-12"><span class="link"><a>Guarantees</a></span> <span class="text">Lorem ipsum dolor sit amet</span></div>
+</div>

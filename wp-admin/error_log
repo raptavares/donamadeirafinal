@@ -1,0 +1,308 @@
+[20-Apr-2017 02:00:44 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/javalidigital16/public_html/donamadeira/wp-includes/load.php on line 316
+[20-Apr-2017 02:29:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/core/class-all_fonts.php on line 91
+[20-Apr-2017 02:56:01 UTC] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_woocommerce_attribute_taxonomies ADD KEY `attribute_name` (`attribute_name`(20)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3291)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3287)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3288)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3289)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3290)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3286)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3282)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3283)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:10 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3284)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3285)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3281)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3117)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3112)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3108)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3109)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3110)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3111)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3107)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3103)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3104)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3105)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3106)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3102)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3098)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3099)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3100)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3101)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:11 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3096)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3078)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3077)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3075)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3037)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3095)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3091)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3092)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3093)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3094)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3090)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3085)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3086)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3087)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3088)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3084)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3080)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3081)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3082)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3083)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3079)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:12 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3036)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (99)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (96)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (60)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (93)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (73)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (90)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (87)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:30:13 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (83)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (2143)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (2142)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (1732)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (79)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (76)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (70)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:54 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (67)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:55 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (1747)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:55 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (41)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:55 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (42)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_Data::delete_post, WC_Data_Store->delete_variations, WC_Data_Store->__call, call_user_func_array, WC_Product_Variable_Data_Store_CPT->delete_variations, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:37:55 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (40)
+				     AND status <> 'reversed' feita por wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 03:41:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[20-Apr-2017 03:57:31 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (3341)
+				     AND status <> 'reversed' feita por File_Upload_Upgrader->cleanup, wp_delete_attachment, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 04:25:33 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (1397)
+				     AND status <> 'reversed' feita por wp_nav_menu_update_menu_items, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 04:25:33 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (1398)
+				     AND status <> 'reversed' feita por wp_nav_menu_update_menu_items, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[20-Apr-2017 04:25:33 UTC] Erro de banco de dados do WordPress Table 'i2277793_wp4.wp_pv_commission' doesn't exist para a consulta SELECT COUNT(order_id) AS order_count
+				     FROM wp_pv_commission
+				     WHERE order_id IN (1399)
+				     AND status <> 'reversed' feita por wp_nav_menu_update_menu_items, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Commission->commissions_table_sync, WCV_Commission::count_commission_by_order
+[27-Apr-2017 07:09:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[27-Apr-2017 07:10:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[27-Apr-2017 07:10:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[27-Apr-2017 07:15:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[27-Apr-2017 07:20:04 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[27-Apr-2017 07:22:54 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[27-Apr-2017 07:24:37 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[27-Apr-2017 07:25:10 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[27-Apr-2017 07:26:21 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[27-Apr-2017 07:31:37 UTC] PHP Fatal error:  Call to undefined function wc_print_notices() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1279
+[30-Apr-2017 18:55:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[30-Apr-2017 18:55:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[30-Apr-2017 19:03:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[02-May-2017 03:10:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[02-May-2017 03:36:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
+[02-May-2017 03:36:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/javalidigital16/public_html/donamadeira/wp-content/plugins/suppamenu/standard/include/ajax-save-data.php on line 10
